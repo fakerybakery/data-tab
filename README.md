@@ -11,4 +11,4 @@ HTML Structure:
 
 **Important** The `tab` and `pane` classes MUST BE INCLUDED (change the HTML + JS to modify the names of these classes)
 
-License: UNLICENSE
+License: The UNLICENSE!
